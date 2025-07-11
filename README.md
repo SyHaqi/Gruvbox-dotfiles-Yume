@@ -1,3 +1,5 @@
 # Gruvbox-dotfiles-Yume
 
-[🎥 Watch Demo Video](https://github.com/SyHaqi/Gruvbox-dotfiles-Yume/blob/main/simplescreenrecorder-2025-07-10_23.42.19.mp4)
+<video src="https://raw.githubusercontent.com/SyHaqi/Gruvbox-dotfiles-Yume/main/simplescreenrecorder-2025-07-10_23.42.19.mp4" controls width="600">
+  Your browser does not support the video tag.
+</video>
